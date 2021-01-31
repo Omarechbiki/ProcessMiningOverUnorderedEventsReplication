@@ -1,0 +1,2376 @@
+0,Loan application received,1262300400000
+0,Check application form completeness,1262300723000
+0,Check credit history,1262300753000
+0,Appraise property,1262301365000
+0,Asses loan risk,1262301698000
+0,Assess eligibility,1262302634000
+0,Reject application,1262303372000
+0,Loan application rejected,1262303372000
+1,Loan application received,1262357326000
+1,Check application form completeness,1262357598000
+1,Check credit history,1262357628000
+1,Appraise property,1262358007000
+1,Asses loan risk,1262358776000
+1,Assess eligibility,1262359605000
+1,Reject application,1262360257000
+1,Loan application rejected,1262360257000
+2,Loan application received,1262361193000
+2,Check application form completeness,1262361533000
+2,Return application back to applicant,1262361978000
+2,Receive updated application,1262362389000
+2,Check application form completeness,1262362635000
+2,Check credit history,1262362650000
+2,Appraise property,1262363192000
+2,Asses loan risk,1262363927000
+2,Assess eligibility,1262365002000
+2,Prepare acceptance pack,1262365646000
+2,Check if home insurance quote is requested,1262365956000
+2,Send acceptance pack with insurance,1262366658000
+2,Verify repayment agreement,1262367224000
+2,Cancel application,1262367837000
+2,Loan application cancelled,1262367837000
+3,Loan application received,1262606565000
+3,Check application form completeness,1262606859000
+3,Check credit history,1262606958000
+3,Appraise property,1262607448000
+3,Asses loan risk,1262607663000
+3,Assess eligibility,1262608568000
+3,Prepare acceptance pack,1262609189000
+3,Check if home insurance quote is requested,1262609735000
+3,Send acceptance pack,1262610245000
+3,Verify repayment agreement,1262610802000
+3,Cancel application,1262611314000
+3,Loan application cancelled,1262611314000
+4,Loan application received,1262621939000
+4,Check application form completeness,1262622358000
+4,Appraise property,1262623063000
+4,Check credit history,1262623953000
+4,Asses loan risk,1262624650000
+4,Assess eligibility,1262625229000
+4,Reject application,1262625917000
+4,Loan application rejected,1262625917000
+5,Loan application received,1262771010000
+5,Check application form completeness,1262771357000
+5,Appraise property,1262771966000
+5,Check credit history,1262772600000
+5,Asses loan risk,1262773324000
+5,Assess eligibility,1262774136000
+5,Reject application,1262774588000
+5,Loan application rejected,1262774588000
+6,Loan application received,1262786593000
+6,Check application form completeness,1262786868000
+6,Check credit history,1262787308000
+6,Appraise property,1262787423000
+6,Asses loan risk,1262788346000
+6,Assess eligibility,1262788722000
+6,Reject application,1262789510000
+6,Loan application rejected,1262789510000
+7,Loan application received,1262858800000
+7,Check application form completeness,1262859172000
+7,Check credit history,1262859177000
+7,Asses loan risk,1262859894000
+7,Appraise property,1262859912000
+7,Assess eligibility,1262860909000
+7,Prepare acceptance pack,1262861467000
+7,Check if home insurance quote is requested,1262862182000
+7,Send acceptance pack,1262862677000
+7,Verify repayment agreement,1262863039000
+7,Approve application,1262863595000
+7,Loan application approved,1262863595000
+8,Loan application received,1262944733000
+8,Check application form completeness,1262944969000
+8,Check credit history,1262945122000
+8,Appraise property,1262945690000
+8,Asses loan risk,1262946190000
+8,Assess eligibility,1262947020000
+8,Reject application,1262947693000
+8,Loan application rejected,1262947693000
+9,Loan application received,1263206233000
+9,Check application form completeness,1263206654000
+9,Appraise property,1263207135000
+9,Check credit history,1263207506000
+9,Asses loan risk,1263208354000
+9,Assess eligibility,1263209185000
+9,Prepare acceptance pack,1263209958000
+9,Check if home insurance quote is requested,1263210612000
+9,Send acceptance pack,1263211515000
+9,Verify repayment agreement,1263212072000
+9,Approve application,1263212796000
+9,Loan application approved,1263212796000
+10,Loan application received,1263219403000
+10,Check application form completeness,1263219726000
+10,Check credit history,1263219894000
+10,Appraise property,1263220449000
+10,Asses loan risk,1263220731000
+10,Assess eligibility,1263221583000
+10,Reject application,1263222218000
+10,Loan application rejected,1263222218000
+11,Loan application received,1263289935000
+11,Check application form completeness,1263290202000
+11,Check credit history,1263290530000
+11,Appraise property,1263290948000
+11,Asses loan risk,1263291366000
+11,Assess eligibility,1263291877000
+11,Reject application,1263292446000
+11,Loan application rejected,1263292446000
+12,Loan application received,1263303801000
+12,Check application form completeness,1263304108000
+12,Check credit history,1263304442000
+12,Appraise property,1263304754000
+12,Asses loan risk,1263305563000
+12,Assess eligibility,1263306309000
+12,Reject application,1263306874000
+12,Loan application rejected,1263306874000
+13,Loan application received,1263386190000
+13,Check application form completeness,1263386450000
+13,Appraise property,1263387057000
+13,Check credit history,1263387736000
+13,Asses loan risk,1263388113000
+13,Assess eligibility,1263389124000
+13,Reject application,1263389949000
+13,Loan application rejected,1263389949000
+14,Loan application received,1263476726000
+14,Check application form completeness,1263477008000
+14,Check credit history,1263477193000
+14,Appraise property,1263477654000
+14,Asses loan risk,1263478041000
+14,Assess eligibility,1263478846000
+14,Prepare acceptance pack,1263479680000
+14,Check if home insurance quote is requested,1263480398000
+14,Send acceptance pack,1263480837000
+14,Verify repayment agreement,1263481483000
+14,Approve application,1263482133000
+14,Loan application approved,1263482133000
+15,Loan application received,1263559556000
+15,Check application form completeness,1263559816000
+15,Appraise property,1263560531000
+15,Check credit history,1263561552000
+15,Asses loan risk,1263562504000
+15,Assess eligibility,1263563514000
+15,Reject application,1263564010000
+15,Loan application rejected,1263564010000
+16,Loan application received,1263814944000
+16,Check application form completeness,1263815389000
+16,Appraise property,1263815815000
+16,Check credit history,1263816215000
+16,Asses loan risk,1263817104000
+16,Assess eligibility,1263818110000
+16,Reject application,1263818483000
+16,Loan application rejected,1263818483000
+17,Loan application received,1263893576000
+17,Check application form completeness,1263893851000
+17,Check credit history,1263894202000
+17,Appraise property,1263894299000
+17,Asses loan risk,1263895073000
+17,Assess eligibility,1263895865000
+17,Reject application,1263896517000
+17,Loan application rejected,1263896517000
+18,Loan application received,1263910505000
+18,Check application form completeness,1263910844000
+18,Check credit history,1263910951000
+18,Appraise property,1263911346000
+18,Asses loan risk,1263911759000
+18,Assess eligibility,1263912442000
+18,Reject application,1263912890000
+18,Loan application rejected,1263912890000
+19,Loan application received,1263998995000
+19,Check application form completeness,1263999283000
+19,Appraise property,1263999679000
+19,Check credit history,1263999765000
+19,Asses loan risk,1264000607000
+19,Assess eligibility,1264001289000
+19,Reject application,1264001979000
+19,Loan application rejected,1264001979000
+20,Loan application received,1264092241000
+20,Check application form completeness,1264092626000
+20,Check credit history,1264092931000
+20,Appraise property,1264093156000
+20,Asses loan risk,1264093684000
+20,Assess eligibility,1264094469000
+20,Prepare acceptance pack,1264095085000
+20,Check if home insurance quote is requested,1264095893000
+20,Send acceptance pack,1264096326000
+20,Verify repayment agreement,1264097044000
+20,Cancel application,1264097483000
+20,Loan application cancelled,1264097483000
+21,Loan application received,1264165024000
+21,Check application form completeness,1264165220000
+21,Return application back to applicant,1264165534000
+21,Receive updated application,1264165773000
+21,Check application form completeness,1264166072000
+21,Return application back to applicant,1264166381000
+21,Receive updated application,1264166705000
+21,Check application form completeness,1264167026000
+21,Check credit history,1264167272000
+21,Appraise property,1264167560000
+21,Asses loan risk,1264168247000
+21,Assess eligibility,1264168890000
+21,Prepare acceptance pack,1264169535000
+21,Check if home insurance quote is requested,1264170150000
+21,Send acceptance pack,1264170819000
+21,Verify repayment agreement,1264171422000
+21,Approve application,1264172073000
+21,Loan application approved,1264172073000
+22,Loan application received,1264430936000
+22,Check application form completeness,1264431179000
+22,Appraise property,1264431810000
+22,Check credit history,1264433132000
+22,Asses loan risk,1264434239000
+22,Assess eligibility,1264434903000
+22,Reject application,1264435665000
+22,Loan application rejected,1264435665000
+23,Loan application received,1264517428000
+23,Check application form completeness,1264517706000
+23,Return application back to applicant,1264518085000
+23,Receive updated application,1264518471000
+23,Check application form completeness,1264518805000
+23,Check credit history,1264519080000
+23,Appraise property,1264519405000
+23,Asses loan risk,1264519921000
+23,Assess eligibility,1264520858000
+23,Prepare acceptance pack,1264521321000
+23,Check if home insurance quote is requested,1264522063000
+23,Send acceptance pack with insurance,1264522734000
+23,Verify repayment agreement,1264523162000
+23,Approve application,1264523793000
+23,Loan application approved,1264523793000
+24,Loan application received,1264595890000
+24,Check application form completeness,1264596250000
+24,Check credit history,1264596318000
+24,Appraise property,1264597108000
+24,Asses loan risk,1264597438000
+24,Assess eligibility,1264598451000
+24,Prepare acceptance pack,1264599131000
+24,Check if home insurance quote is requested,1264599770000
+24,Send acceptance pack,1264600374000
+24,Verify repayment agreement,1264601111000
+25,Loan application received,1264601358000
+24,Cancel application,1264601398000
+24,Loan application cancelled,1264601398000
+25,Check application form completeness,1264601629000
+25,Check credit history,1264601769000
+25,Appraise property,1264602017000
+25,Asses loan risk,1264602330000
+25,Assess eligibility,1264603479000
+25,Reject application,1264603917000
+25,Loan application rejected,1264603917000
+26,Loan application received,1264669414000
+26,Check application form completeness,1264669776000
+26,Check credit history,1264670264000
+26,Appraise property,1264670520000
+26,Asses loan risk,1264671339000
+26,Assess eligibility,1264672107000
+26,Prepare acceptance pack,1264672674000
+26,Check if home insurance quote is requested,1264673252000
+26,Send acceptance pack with insurance,1264673684000
+26,Verify repayment agreement,1264674393000
+26,Cancel application,1264674960000
+26,Loan application cancelled,1264674960000
+27,Loan application received,1264695789000
+27,Check application form completeness,1264696132000
+27,Check credit history,1264696335000
+27,Appraise property,1264696501000
+27,Asses loan risk,1264697240000
+27,Assess eligibility,1264697889000
+27,Prepare acceptance pack,1264698611000
+27,Check if home insurance quote is requested,1264699235000
+27,Send acceptance pack,1264699906000
+27,Verify repayment agreement,1264700591000
+27,Cancel application,1264701097000
+27,Loan application cancelled,1264701097000
+28,Loan application received,1265017365000
+28,Check application form completeness,1265017633000
+28,Check credit history,1265017735000
+28,Appraise property,1265018226000
+28,Asses loan risk,1265018346000
+28,Assess eligibility,1265019001000
+28,Reject application,1265019466000
+28,Loan application rejected,1265019466000
+29,Loan application received,1265033470000
+29,Check application form completeness,1265033719000
+29,Check credit history,1265034166000
+29,Appraise property,1265034466000
+29,Asses loan risk,1265035271000
+29,Assess eligibility,1265036485000
+29,Prepare acceptance pack,1265036969000
+29,Check if home insurance quote is requested,1265037676000
+29,Send acceptance pack with insurance,1265038533000
+29,Verify repayment agreement,1265039328000
+29,Approve application,1265039952000
+29,Loan application approved,1265039952000
+30,Loan application received,1265108036000
+30,Check application form completeness,1265108276000
+30,Return application back to applicant,1265108596000
+30,Receive updated application,1265108888000
+30,Check application form completeness,1265109184000
+30,Check credit history,1265109551000
+30,Appraise property,1265109706000
+30,Asses loan risk,1265110128000
+30,Assess eligibility,1265110810000
+30,Prepare acceptance pack,1265111324000
+30,Check if home insurance quote is requested,1265111740000
+30,Send acceptance pack with insurance,1265112198000
+30,Verify repayment agreement,1265112653000
+30,Approve application,1265113190000
+30,Loan application approved,1265113190000
+31,Loan application received,1265118607000
+31,Check application form completeness,1265118947000
+31,Return application back to applicant,1265119284000
+31,Receive updated application,1265119600000
+31,Check application form completeness,1265119816000
+31,Return application back to applicant,1265120235000
+31,Receive updated application,1265120616000
+31,Check application form completeness,1265120905000
+31,Return application back to applicant,1265121217000
+31,Receive updated application,1265121526000
+31,Check application form completeness,1265121796000
+31,Check credit history,1265121869000
+31,Appraise property,1265122379000
+31,Asses loan risk,1265122770000
+31,Assess eligibility,1265123825000
+31,Reject application,1265124436000
+31,Loan application rejected,1265124436000
+32,Loan application received,1265206941000
+32,Check application form completeness,1265207144000
+32,Check credit history,1265207374000
+32,Appraise property,1265207705000
+32,Asses loan risk,1265208445000
+32,Assess eligibility,1265209368000
+32,Reject application,1265209961000
+32,Loan application rejected,1265209961000
+33,Loan application received,1265289629000
+33,Check application form completeness,1265289865000
+33,Appraise property,1265290252000
+33,Check credit history,1265290499000
+33,Asses loan risk,1265291556000
+33,Assess eligibility,1265292466000
+33,Reject application,1265292934000
+33,Loan application rejected,1265292934000
+34,Loan application received,1265361718000
+34,Check application form completeness,1265361973000
+34,Appraise property,1265362686000
+34,Check credit history,1265363593000
+34,Asses loan risk,1265364285000
+34,Assess eligibility,1265365608000
+34,Reject application,1265366160000
+34,Loan application rejected,1265366160000
+35,Loan application received,1265388071000
+35,Check application form completeness,1265388418000
+35,Return application back to applicant,1265388742000
+35,Receive updated application,1265389067000
+35,Check application form completeness,1265389361000
+35,Check credit history,1265389972000
+35,Appraise property,1265390031000
+35,Asses loan risk,1265390991000
+35,Assess eligibility,1265391713000
+35,Reject application,1265392163000
+35,Loan application rejected,1265392163000
+36,Loan application received,1265645136000
+36,Check application form completeness,1265645534000
+36,Check credit history,1265646010000
+36,Appraise property,1265646211000
+36,Asses loan risk,1265647059000
+36,Assess eligibility,1265647944000
+36,Reject application,1265648707000
+36,Loan application rejected,1265648707000
+37,Loan application received,1265711014000
+37,Check application form completeness,1265711451000
+37,Check credit history,1265712137000
+37,Appraise property,1265712231000
+37,Asses loan risk,1265712883000
+37,Assess eligibility,1265713842000
+37,Reject application,1265714410000
+37,Loan application rejected,1265714410000
+38,Loan application received,1265726378000
+38,Check application form completeness,1265726723000
+38,Appraise property,1265727120000
+38,Check credit history,1265727242000
+38,Asses loan risk,1265728514000
+38,Assess eligibility,1265729607000
+38,Reject application,1265729944000
+38,Loan application rejected,1265729944000
+39,Loan application received,1265810856000
+39,Check application form completeness,1265811102000
+39,Return application back to applicant,1265811436000
+39,Receive updated application,1265811723000
+39,Check application form completeness,1265811987000
+39,Check credit history,1265812135000
+39,Appraise property,1265812666000
+39,Asses loan risk,1265812780000
+39,Assess eligibility,1265813518000
+39,Reject application,1265813979000
+39,Loan application rejected,1265813979000
+40,Loan application received,1265894785000
+40,Check application form completeness,1265895044000
+40,Check credit history,1265895535000
+40,Appraise property,1265895555000
+40,Asses loan risk,1265896347000
+40,Assess eligibility,1265897417000
+40,Reject application,1265898159000
+40,Loan application rejected,1265898159000
+41,Loan application received,1265982196000
+41,Check application form completeness,1265982549000
+41,Check credit history,1265983190000
+41,Appraise property,1265983221000
+41,Asses loan risk,1265984032000
+41,Assess eligibility,1265984851000
+41,Reject application,1265985561000
+41,Loan application rejected,1265985561000
+42,Loan application received,1266244260000
+42,Check application form completeness,1266244532000
+42,Appraise property,1266245050000
+42,Check credit history,1266245164000
+42,Asses loan risk,1266246412000
+42,Assess eligibility,1266247432000
+42,Reject application,1266247957000
+42,Loan application rejected,1266247957000
+43,Loan application received,1266250927000
+43,Check application form completeness,1266251292000
+43,Return application back to applicant,1266251567000
+43,Receive updated application,1266251820000
+43,Check application form completeness,1266252222000
+43,Appraise property,1266253029000
+43,Check credit history,1266253287000
+43,Asses loan risk,1266254208000
+43,Assess eligibility,1266255018000
+43,Reject application,1266255662000
+43,Loan application rejected,1266255662000
+44,Loan application received,1266330218000
+44,Check application form completeness,1266330535000
+44,Check credit history,1266330852000
+44,Appraise property,1266331253000
+44,Asses loan risk,1266331840000
+44,Assess eligibility,1266332754000
+44,Reject application,1266333383000
+44,Loan application rejected,1266333383000
+45,Loan application received,1266402770000
+45,Check application form completeness,1266403012000
+45,Check credit history,1266403273000
+45,Appraise property,1266403589000
+45,Asses loan risk,1266404087000
+45,Assess eligibility,1266404932000
+45,Prepare acceptance pack,1266405520000
+45,Check if home insurance quote is requested,1266405991000
+45,Send acceptance pack,1266406486000
+45,Verify repayment agreement,1266407470000
+45,Approve application,1266408102000
+45,Loan application approved,1266408102000
+46,Loan application received,1266416941000
+46,Check application form completeness,1266417278000
+46,Return application back to applicant,1266417652000
+46,Receive updated application,1266417952000
+46,Check application form completeness,1266418126000
+46,Appraise property,1266418544000
+46,Check credit history,1266418571000
+46,Asses loan risk,1266419407000
+46,Assess eligibility,1266420663000
+46,Reject application,1266421449000
+46,Loan application rejected,1266421449000
+47,Loan application received,1266422226000
+47,Check application form completeness,1266422477000
+47,Check credit history,1266422610000
+47,Appraise property,1266423123000
+47,Asses loan risk,1266423444000
+47,Assess eligibility,1266424027000
+47,Prepare acceptance pack,1266424606000
+47,Check if home insurance quote is requested,1266425137000
+47,Send acceptance pack,1266425638000
+47,Verify repayment agreement,1266426371000
+47,Approve application,1266426831000
+47,Loan application approved,1266426831000
+48,Loan application received,1266508606000
+48,Check application form completeness,1266508974000
+48,Appraise property,1266509659000
+48,Check credit history,1266510255000
+48,Asses loan risk,1266511170000
+48,Assess eligibility,1266511952000
+48,Reject application,1266512586000
+48,Loan application rejected,1266512586000
+49,Loan application received,1266584157000
+49,Check application form completeness,1266584390000
+49,Return application back to applicant,1266584625000
+49,Receive updated application,1266584773000
+49,Check application form completeness,1266585016000
+49,Return application back to applicant,1266585294000
+49,Receive updated application,1266585645000
+49,Check application form completeness,1266585943000
+49,Check credit history,1266585953000
+49,Appraise property,1266586521000
+49,Asses loan risk,1266586625000
+49,Assess eligibility,1266587683000
+49,Reject application,1266588425000
+49,Loan application rejected,1266588425000
+50,Loan application received,1266594985000
+50,Check application form completeness,1266595270000
+50,Check credit history,1266595287000
+50,Appraise property,1266595784000
+50,Asses loan risk,1266596230000
+50,Assess eligibility,1266596999000
+50,Reject application,1266597726000
+50,Loan application rejected,1266597726000
+51,Loan application received,1266857238000
+51,Check application form completeness,1266857523000
+51,Check credit history,1266857899000
+51,Appraise property,1266858159000
+51,Asses loan risk,1266858681000
+51,Assess eligibility,1266859731000
+51,Reject application,1266860311000
+51,Loan application rejected,1266860311000
+52,Loan application received,1266939705000
+52,Check application form completeness,1266939962000
+52,Check credit history,1266940195000
+52,Appraise property,1266940647000
+52,Asses loan risk,1266940845000
+52,Assess eligibility,1266941828000
+52,Prepare acceptance pack,1266942452000
+52,Check if home insurance quote is requested,1266943042000
+52,Send acceptance pack with insurance,1266943808000
+52,Verify repayment agreement,1266944408000
+52,Cancel application,1266945163000
+52,Loan application cancelled,1266945163000
+53,Loan application received,1267021518000
+53,Check application form completeness,1267021772000
+53,Appraise property,1267022200000
+53,Check credit history,1267022566000
+53,Asses loan risk,1267023636000
+53,Assess eligibility,1267024451000
+53,Reject application,1267024965000
+53,Loan application rejected,1267024965000
+54,Loan application received,1267089165000
+54,Check application form completeness,1267089438000
+54,Check credit history,1267089846000
+54,Appraise property,1267089974000
+54,Asses loan risk,1267090684000
+54,Assess eligibility,1267091371000
+54,Prepare acceptance pack,1267092010000
+54,Check if home insurance quote is requested,1267092711000
+54,Send acceptance pack,1267093216000
+54,Verify repayment agreement,1267093916000
+54,Cancel application,1267094417000
+54,Loan application cancelled,1267094417000
+55,Loan application received,1267095716000
+55,Check application form completeness,1267095994000
+55,Appraise property,1267096588000
+55,Check credit history,1267097765000
+55,Asses loan risk,1267098524000
+55,Assess eligibility,1267099648000
+55,Reject application,1267100131000
+55,Loan application rejected,1267100131000
+56,Loan application received,1267111005000
+56,Check application form completeness,1267111369000
+56,Appraise property,1267112026000
+56,Check credit history,1267112414000
+56,Asses loan risk,1267112911000
+56,Assess eligibility,1267113920000
+56,Reject application,1267114414000
+56,Loan application rejected,1267114414000
+57,Loan application received,1267189912000
+57,Check application form completeness,1267190138000
+57,Check credit history,1267190283000
+57,Appraise property,1267190531000
+57,Asses loan risk,1267191349000
+57,Assess eligibility,1267192218000
+57,Reject application,1267192941000
+57,Loan application rejected,1267192941000
+58,Loan application received,1267193729000
+58,Check application form completeness,1267193984000
+58,Check credit history,1267194411000
+58,Appraise property,1267194621000
+58,Asses loan risk,1267195550000
+58,Assess eligibility,1267196614000
+58,Prepare acceptance pack,1267197173000
+58,Check if home insurance quote is requested,1267197840000
+58,Send acceptance pack with insurance,1267198453000
+58,Verify repayment agreement,1267199145000
+58,Approve application,1267199753000
+58,Loan application approved,1267199753000
+59,Loan application received,1267442328000
+59,Check application form completeness,1267442569000
+59,Return application back to applicant,1267442880000
+59,Receive updated application,1267443148000
+59,Check application form completeness,1267443523000
+59,Appraise property,1267443937000
+59,Check credit history,1267444780000
+59,Asses loan risk,1267445695000
+59,Assess eligibility,1267446533000
+59,Reject application,1267447122000
+59,Loan application rejected,1267447122000
+60,Loan application received,1267455322000
+60,Check application form completeness,1267455601000
+60,Return application back to applicant,1267455926000
+60,Receive updated application,1267456282000
+60,Check application form completeness,1267456522000
+60,Return application back to applicant,1267456911000
+60,Receive updated application,1267457134000
+60,Check application form completeness,1267457371000
+60,Appraise property,1267458216000
+60,Check credit history,1267458934000
+60,Asses loan risk,1267459761000
+60,Assess eligibility,1267460565000
+60,Prepare acceptance pack,1267461225000
+60,Check if home insurance quote is requested,1267461789000
+60,Send acceptance pack with insurance,1267462372000
+60,Verify repayment agreement,1267462965000
+60,Approve application,1267463567000
+60,Loan application approved,1267463567000
+61,Loan application received,1267529936000
+61,Check application form completeness,1267530247000
+61,Check credit history,1267530486000
+61,Appraise property,1267530981000
+61,Asses loan risk,1267531488000
+61,Assess eligibility,1267532472000
+61,Reject application,1267533037000
+61,Loan application rejected,1267533037000
+62,Loan application received,1267608039000
+62,Check application form completeness,1267608344000
+62,Return application back to applicant,1267608571000
+62,Receive updated application,1267608898000
+62,Check application form completeness,1267609254000
+62,Check credit history,1267609715000
+62,Appraise property,1267609965000
+62,Asses loan risk,1267610579000
+62,Assess eligibility,1267611115000
+62,Reject application,1267611825000
+62,Loan application rejected,1267611825000
+63,Loan application received,1267633029000
+63,Check application form completeness,1267633400000
+63,Appraise property,1267633964000
+63,Check credit history,1267634961000
+63,Asses loan risk,1267635999000
+63,Assess eligibility,1267637063000
+63,Reject application,1267637488000
+63,Loan application rejected,1267637488000
+64,Loan application received,1267720827000
+64,Check application form completeness,1267721070000
+64,Appraise property,1267721683000
+64,Check credit history,1267722960000
+64,Asses loan risk,1267724042000
+64,Assess eligibility,1267724871000
+64,Reject application,1267725498000
+64,Loan application rejected,1267725498000
+65,Loan application received,1267788942000
+65,Check application form completeness,1267789338000
+65,Appraise property,1267789949000
+65,Check credit history,1267790154000
+65,Asses loan risk,1267790997000
+65,Assess eligibility,1267792050000
+65,Prepare acceptance pack,1267792632000
+65,Check if home insurance quote is requested,1267793029000
+65,Send acceptance pack,1267793567000
+65,Verify repayment agreement,1267794194000
+65,Approve application,1267794715000
+65,Loan application approved,1267794715000
+66,Loan application received,1267808018000
+66,Check application form completeness,1267808299000
+66,Check credit history,1267808825000
+66,Appraise property,1267808827000
+66,Asses loan risk,1267809502000
+66,Assess eligibility,1267810067000
+66,Reject application,1267810790000
+66,Loan application rejected,1267810790000
+67,Loan application received,1268064378000
+67,Check application form completeness,1268064714000
+67,Appraise property,1268065215000
+67,Check credit history,1268065915000
+67,Asses loan risk,1268066924000
+67,Assess eligibility,1268067678000
+67,Reject application,1268068381000
+67,Loan application rejected,1268068381000
+68,Loan application received,1268148766000
+68,Check application form completeness,1268149053000
+68,Check credit history,1268149055000
+68,Appraise property,1268149543000
+68,Asses loan risk,1268150024000
+68,Assess eligibility,1268150921000
+68,Reject application,1268151530000
+68,Loan application rejected,1268151530000
+69,Loan application received,1268221970000
+69,Check application form completeness,1268222363000
+69,Check credit history,1268222582000
+69,Appraise property,1268223113000
+69,Asses loan risk,1268223664000
+69,Assess eligibility,1268224312000
+69,Reject application,1268224854000
+69,Loan application rejected,1268224854000
+70,Loan application received,1268308432000
+70,Check application form completeness,1268308638000
+70,Check credit history,1268308939000
+70,Appraise property,1268309208000
+70,Asses loan risk,1268310081000
+70,Assess eligibility,1268310999000
+70,Reject application,1268311662000
+70,Loan application rejected,1268311662000
+71,Loan application received,1268391390000
+71,Check application form completeness,1268391618000
+71,Check credit history,1268392131000
+71,Appraise property,1268392349000
+71,Asses loan risk,1268392942000
+71,Assess eligibility,1268393791000
+71,Reject application,1268394491000
+71,Loan application rejected,1268394491000
+72,Loan application received,1268404438000
+72,Check application form completeness,1268404733000
+72,Check credit history,1268404769000
+72,Appraise property,1268405325000
+72,Asses loan risk,1268405694000
+72,Assess eligibility,1268407102000
+72,Reject application,1268407838000
+72,Loan application rejected,1268407838000
+73,Loan application received,1268656420000
+73,Check application form completeness,1268656758000
+73,Appraise property,1268657286000
+73,Check credit history,1268657512000
+73,Asses loan risk,1268658596000
+73,Assess eligibility,1268659434000
+73,Reject application,1268659974000
+73,Loan application rejected,1268659974000
+74,Loan application received,1268671015000
+74,Check application form completeness,1268671366000
+74,Return application back to applicant,1268671767000
+74,Receive updated application,1268672035000
+74,Check application form completeness,1268672343000
+74,Return application back to applicant,1268672593000
+74,Receive updated application,1268672921000
+74,Check application form completeness,1268673212000
+74,Check credit history,1268673223000
+74,Appraise property,1268673972000
+74,Asses loan risk,1268674041000
+74,Assess eligibility,1268674748000
+74,Reject application,1268675301000
+74,Loan application rejected,1268675301000
+75,Loan application received,1268733992000
+75,Check application form completeness,1268734289000
+75,Appraise property,1268734848000
+75,Check credit history,1268735271000
+75,Asses loan risk,1268736587000
+75,Assess eligibility,1268737587000
+75,Reject application,1268738063000
+75,Loan application rejected,1268738063000
+76,Loan application received,1268743469000
+76,Check application form completeness,1268743783000
+76,Check credit history,1268743840000
+76,Appraise property,1268744504000
+76,Asses loan risk,1268744858000
+76,Assess eligibility,1268745895000
+76,Reject application,1268746521000
+76,Loan application rejected,1268746521000
+77,Loan application received,1268826474000
+77,Check application form completeness,1268826711000
+77,Check credit history,1268826755000
+77,Appraise property,1268827210000
+77,Asses loan risk,1268827819000
+77,Assess eligibility,1268828723000
+77,Prepare acceptance pack,1268829428000
+77,Check if home insurance quote is requested,1268829974000
+77,Send acceptance pack with insurance,1268830735000
+77,Verify repayment agreement,1268831175000
+77,Approve application,1268831731000
+77,Loan application approved,1268831731000
+78,Loan application received,1268840399000
+78,Check application form completeness,1268840663000
+78,Appraise property,1268840802000
+78,Check credit history,1268841850000
+78,Asses loan risk,1268842714000
+78,Assess eligibility,1268843171000
+78,Reject application,1268843694000
+78,Loan application rejected,1268843694000
+79,Loan application received,1268927152000
+79,Check application form completeness,1268927442000
+79,Check credit history,1268927815000
+79,Appraise property,1268927981000
+79,Asses loan risk,1268928988000
+79,Assess eligibility,1268929658000
+79,Reject application,1268930246000
+79,Loan application rejected,1268930246000
+80,Loan application received,1269003695000
+80,Check application form completeness,1269004021000
+80,Appraise property,1269004560000
+80,Check credit history,1269004708000
+80,Asses loan risk,1269005461000
+80,Assess eligibility,1269006041000
+80,Prepare acceptance pack,1269006570000
+80,Check if home insurance quote is requested,1269006916000
+80,Send acceptance pack with insurance,1269007331000
+80,Verify repayment agreement,1269007747000
+80,Cancel application,1269008182000
+80,Loan application cancelled,1269008182000
+81,Loan application received,1269250727000
+81,Check application form completeness,1269250955000
+81,Check credit history,1269251045000
+81,Appraise property,1269251572000
+81,Asses loan risk,1269251990000
+81,Assess eligibility,1269253050000
+81,Reject application,1269253886000
+81,Loan application rejected,1269253886000
+82,Loan application received,1269255151000
+82,Check application form completeness,1269255447000
+82,Check credit history,1269255456000
+82,Appraise property,1269256355000
+82,Asses loan risk,1269256481000
+82,Assess eligibility,1269257225000
+82,Reject application,1269257855000
+82,Loan application rejected,1269257855000
+83,Loan application received,1269334865000
+83,Check application form completeness,1269335102000
+83,Check credit history,1269335225000
+83,Appraise property,1269335713000
+83,Asses loan risk,1269336238000
+83,Assess eligibility,1269336978000
+83,Reject application,1269337781000
+83,Loan application rejected,1269337781000
+84,Loan application received,1269359068000
+84,Check application form completeness,1269359270000
+84,Check credit history,1269359357000
+84,Appraise property,1269359720000
+84,Asses loan risk,1269359879000
+84,Assess eligibility,1269360800000
+84,Prepare acceptance pack,1269361354000
+84,Check if home insurance quote is requested,1269361862000
+84,Send acceptance pack,1269362402000
+84,Verify repayment agreement,1269362839000
+84,Approve application,1269363171000
+84,Loan application approved,1269363171000
+85,Loan application received,1269428779000
+85,Check application form completeness,1269429101000
+85,Return application back to applicant,1269429263000
+85,Receive updated application,1269429584000
+85,Check application form completeness,1269429908000
+85,Check credit history,1269429951000
+85,Appraise property,1269430447000
+85,Asses loan risk,1269431015000
+85,Assess eligibility,1269431987000
+85,Reject application,1269432560000
+85,Loan application rejected,1269432560000
+86,Loan application received,1269446484000
+86,Check application form completeness,1269446801000
+86,Appraise property,1269447259000
+86,Check credit history,1269447775000
+86,Asses loan risk,1269448737000
+86,Assess eligibility,1269449667000
+86,Prepare acceptance pack,1269449980000
+86,Check if home insurance quote is requested,1269450510000
+86,Send acceptance pack,1269451316000
+86,Verify repayment agreement,1269451799000
+86,Cancel application,1269452312000
+86,Loan application cancelled,1269452312000
+87,Loan application received,1269509892000
+87,Check application form completeness,1269510205000
+87,Check credit history,1269510369000
+87,Appraise property,1269510785000
+87,Asses loan risk,1269511139000
+87,Assess eligibility,1269512084000
+87,Prepare acceptance pack,1269512592000
+87,Check if home insurance quote is requested,1269513302000
+87,Send acceptance pack,1269513787000
+87,Verify repayment agreement,1269514550000
+87,Cancel application,1269515262000
+87,Loan application cancelled,1269515262000
+88,Loan application received,1269521326000
+88,Check application form completeness,1269521631000
+88,Appraise property,1269522220000
+88,Check credit history,1269522683000
+88,Asses loan risk,1269523626000
+88,Assess eligibility,1269524739000
+88,Reject application,1269525221000
+88,Loan application rejected,1269525221000
+89,Loan application received,1269532998000
+89,Check application form completeness,1269533281000
+89,Appraise property,1269533753000
+89,Check credit history,1269533878000
+89,Asses loan risk,1269534555000
+89,Assess eligibility,1269535000000
+89,Reject application,1269535670000
+89,Loan application rejected,1269535670000
+90,Loan application received,1269596920000
+90,Check application form completeness,1269597161000
+90,Check credit history,1269597608000
+90,Appraise property,1269597710000
+90,Asses loan risk,1269598660000
+90,Assess eligibility,1269599499000
+90,Reject application,1269599994000
+90,Loan application rejected,1269599994000
+91,Loan application received,1269857035000
+91,Check application form completeness,1269857319000
+91,Check credit history,1269857552000
+91,Appraise property,1269857894000
+91,Asses loan risk,1269858576000
+91,Assess eligibility,1269859532000
+91,Reject application,1269860205000
+91,Loan application rejected,1269860205000
+92,Loan application received,1269866548000
+92,Check application form completeness,1269866731000
+92,Return application back to applicant,1269867154000
+92,Receive updated application,1269867654000
+92,Check application form completeness,1269867975000
+92,Check credit history,1269868192000
+92,Appraise property,1269868492000
+92,Asses loan risk,1269869103000
+92,Assess eligibility,1269870159000
+92,Reject application,1269870970000
+92,Loan application rejected,1269870970000
+93,Loan application received,1269879796000
+93,Check application form completeness,1269880093000
+93,Return application back to applicant,1269880345000
+93,Receive updated application,1269880660000
+93,Check application form completeness,1269880987000
+93,Return application back to applicant,1269881321000
+93,Receive updated application,1269881596000
+93,Check application form completeness,1269881902000
+93,Check credit history,1269881915000
+93,Appraise property,1269882520000
+93,Asses loan risk,1269883048000
+93,Assess eligibility,1269884018000
+93,Reject application,1269884825000
+93,Loan application rejected,1269884825000
+94,Loan application received,1269944803000
+94,Check application form completeness,1269945093000
+94,Check credit history,1269945124000
+94,Appraise property,1269945480000
+94,Asses loan risk,1269945934000
+94,Assess eligibility,1269946636000
+94,Reject application,1269947123000
+94,Loan application rejected,1269947123000
+95,Loan application received,1269957840000
+95,Check application form completeness,1269958105000
+95,Appraise property,1269958815000
+95,Check credit history,1269958887000
+95,Asses loan risk,1269959750000
+95,Assess eligibility,1269960374000
+95,Reject application,1269961036000
+95,Loan application rejected,1269961036000
+96,Loan application received,1269967918000
+96,Check application form completeness,1269968230000
+96,Check credit history,1269968760000
+96,Appraise property,1269968931000
+96,Asses loan risk,1269970006000
+96,Assess eligibility,1269970639000
+96,Reject application,1269971166000
+96,Loan application rejected,1269971166000
+97,Loan application received,1270042461000
+97,Check application form completeness,1270042723000
+97,Return application back to applicant,1270042912000
+97,Receive updated application,1270043241000
+97,Check application form completeness,1270043592000
+97,Check credit history,1270044253000
+97,Appraise property,1270044427000
+97,Asses loan risk,1270045092000
+97,Assess eligibility,1270045937000
+97,Reject application,1270046472000
+97,Loan application rejected,1270046472000
+98,Loan application received,1270118586000
+98,Check application form completeness,1270118848000
+98,Appraise property,1270119601000
+98,Check credit history,1270119688000
+98,Asses loan risk,1270120948000
+98,Assess eligibility,1270121769000
+98,Reject application,1270122431000
+98,Loan application rejected,1270122431000
+99,Loan application received,1270124604000
+99,Check application form completeness,1270125027000
+99,Return application back to applicant,1270125318000
+99,Receive updated application,1270125618000
+99,Check application form completeness,1270125908000
+99,Return application back to applicant,1270126163000
+99,Receive updated application,1270126507000
+99,Check application form completeness,1270126809000
+99,Appraise property,1270127428000
+100,Loan application received,1270128584000
+99,Check credit history,1270128591000
+100,Check application form completeness,1270128968000
+100,Check credit history,1270129016000
+100,Appraise property,1270129668000
+100,Asses loan risk,1270129804000
+99,Asses loan risk,1270129856000
+100,Assess eligibility,1270130850000
+99,Assess eligibility,1270130964000
+100,Reject application,1270131539000
+100,Loan application rejected,1270131539000
+99,Reject application,1270131716000
+99,Loan application rejected,1270131716000
+101,Loan application received,1270216282000
+101,Check application form completeness,1270216574000
+101,Appraise property,1270217261000
+101,Check credit history,1270217784000
+101,Asses loan risk,1270218726000
+101,Assess eligibility,1270219724000
+102,Loan application received,1270220148000
+101,Reject application,1270220167000
+101,Loan application rejected,1270220167000
+102,Check application form completeness,1270220366000
+102,Check credit history,1270220675000
+102,Appraise property,1270221022000
+102,Asses loan risk,1270221382000
+102,Assess eligibility,1270222419000
+102,Reject application,1270222870000
+102,Loan application rejected,1270222870000
+103,Loan application received,1270225828000
+103,Check application form completeness,1270226238000
+103,Appraise property,1270226936000
+103,Check credit history,1270226985000
+103,Asses loan risk,1270227881000
+103,Assess eligibility,1270228852000
+103,Prepare acceptance pack,1270229353000
+103,Check if home insurance quote is requested,1270230033000
+103,Send acceptance pack,1270230633000
+103,Verify repayment agreement,1270231473000
+103,Approve application,1270232229000
+103,Loan application approved,1270232229000
+104,Loan application received,1270482184000
+104,Check application form completeness,1270482446000
+104,Check credit history,1270482658000
+104,Appraise property,1270483034000
+104,Asses loan risk,1270483460000
+104,Assess eligibility,1270484432000
+104,Reject application,1270485134000
+104,Loan application rejected,1270485134000
+105,Loan application received,1270569777000
+105,Check application form completeness,1270570140000
+105,Check credit history,1270570507000
+105,Appraise property,1270570662000
+105,Asses loan risk,1270571046000
+105,Assess eligibility,1270571796000
+105,Reject application,1270572364000
+105,Loan application rejected,1270572364000
+106,Loan application received,1270631600000
+106,Check application form completeness,1270632000000
+106,Check credit history,1270632080000
+106,Appraise property,1270632340000
+106,Asses loan risk,1270632947000
+106,Assess eligibility,1270633801000
+106,Reject application,1270634539000
+106,Loan application rejected,1270634539000
+107,Loan application received,1270653466000
+107,Check application form completeness,1270653622000
+107,Check credit history,1270653842000
+107,Appraise property,1270654177000
+107,Asses loan risk,1270654982000
+107,Assess eligibility,1270655926000
+107,Reject application,1270656452000
+107,Loan application rejected,1270656452000
+108,Loan application received,1270719081000
+108,Check application form completeness,1270719411000
+108,Check credit history,1270719446000
+108,Appraise property,1270720143000
+108,Asses loan risk,1270720562000
+108,Assess eligibility,1270721654000
+108,Prepare acceptance pack,1270722070000
+108,Check if home insurance quote is requested,1270722728000
+108,Send acceptance pack with insurance,1270723276000
+108,Verify repayment agreement,1270723829000
+108,Approve application,1270724555000
+108,Loan application approved,1270724555000
+109,Loan application received,1270739903000
+109,Check application form completeness,1270740245000
+109,Check credit history,1270740478000
+109,Appraise property,1270740896000
+109,Asses loan risk,1270741490000
+109,Assess eligibility,1270742025000
+109,Reject application,1270742746000
+109,Loan application rejected,1270742746000
+110,Loan application received,1270815677000
+110,Check application form completeness,1270815939000
+110,Return application back to applicant,1270816207000
+110,Receive updated application,1270816687000
+110,Check application form completeness,1270816968000
+110,Return application back to applicant,1270817250000
+110,Receive updated application,1270817548000
+110,Check application form completeness,1270817850000
+110,Check credit history,1270817860000
+110,Appraise property,1270818281000
+110,Asses loan risk,1270818917000
+110,Assess eligibility,1270819862000
+110,Reject application,1270820411000
+110,Loan application rejected,1270820411000
+111,Loan application received,1270820995000
+111,Check application form completeness,1270821359000
+111,Check credit history,1270821403000
+111,Appraise property,1270821895000
+111,Asses loan risk,1270822449000
+111,Assess eligibility,1270823511000
+111,Reject application,1270824053000
+111,Loan application rejected,1270824053000
+112,Loan application received,1271085813000
+112,Check application form completeness,1271086229000
+112,Check credit history,1271086357000
+112,Appraise property,1271086936000
+112,Asses loan risk,1271087312000
+112,Assess eligibility,1271088074000
+112,Reject application,1271088589000
+112,Loan application rejected,1271088589000
+113,Loan application received,1271091440000
+113,Check application form completeness,1271091723000
+113,Appraise property,1271092443000
+113,Check credit history,1271093146000
+113,Asses loan risk,1271094014000
+113,Assess eligibility,1271095138000
+113,Reject application,1271095744000
+113,Loan application rejected,1271095744000
+114,Loan application received,1271155006000
+114,Check application form completeness,1271155174000
+114,Check credit history,1271155472000
+114,Appraise property,1271155790000
+114,Asses loan risk,1271156287000
+114,Assess eligibility,1271156751000
+114,Reject application,1271157438000
+114,Loan application rejected,1271157438000
+115,Loan application received,1271165165000
+115,Check application form completeness,1271165505000
+115,Appraise property,1271166033000
+115,Check credit history,1271166487000
+115,Asses loan risk,1271167422000
+115,Assess eligibility,1271168576000
+115,Reject application,1271169189000
+115,Loan application rejected,1271169189000
+116,Loan application received,1271246597000
+116,Check application form completeness,1271246898000
+116,Check credit history,1271247256000
+116,Appraise property,1271247554000
+116,Asses loan risk,1271248235000
+116,Assess eligibility,1271249049000
+116,Reject application,1271249577000
+116,Loan application rejected,1271249577000
+117,Loan application received,1271324222000
+117,Check application form completeness,1271324518000
+117,Check credit history,1271324930000
+117,Appraise property,1271325194000
+117,Asses loan risk,1271325714000
+117,Assess eligibility,1271326586000
+117,Reject application,1271327066000
+117,Loan application rejected,1271327066000
+118,Loan application received,1271338684000
+118,Check application form completeness,1271338987000
+118,Appraise property,1271339546000
+118,Check credit history,1271340014000
+118,Asses loan risk,1271340847000
+118,Assess eligibility,1271341613000
+118,Prepare acceptance pack,1271342199000
+118,Check if home insurance quote is requested,1271342868000
+118,Send acceptance pack with insurance,1271343380000
+118,Verify repayment agreement,1271343948000
+118,Cancel application,1271344432000
+118,Loan application cancelled,1271344432000
+119,Loan application received,1271424636000
+119,Check application form completeness,1271424917000
+119,Check credit history,1271425345000
+119,Appraise property,1271425634000
+119,Asses loan risk,1271426402000
+119,Assess eligibility,1271427426000
+119,Reject application,1271427777000
+119,Loan application rejected,1271427777000
+120,Loan application received,1271688824000
+120,Check application form completeness,1271689094000
+120,Appraise property,1271689628000
+120,Check credit history,1271689703000
+120,Asses loan risk,1271690494000
+120,Assess eligibility,1271691510000
+120,Reject application,1271692074000
+120,Loan application rejected,1271692074000
+121,Loan application received,1271695310000
+121,Check application form completeness,1271695654000
+121,Appraise property,1271696311000
+121,Check credit history,1271697076000
+121,Asses loan risk,1271697801000
+121,Assess eligibility,1271698710000
+121,Reject application,1271699406000
+121,Loan application rejected,1271699406000
+122,Loan application received,1271760053000
+122,Check application form completeness,1271760339000
+122,Return application back to applicant,1271760623000
+122,Receive updated application,1271760948000
+122,Check application form completeness,1271761289000
+122,Check credit history,1271761618000
+122,Appraise property,1271761951000
+122,Asses loan risk,1271762771000
+122,Assess eligibility,1271763815000
+122,Prepare acceptance pack,1271764286000
+122,Check if home insurance quote is requested,1271765055000
+122,Send acceptance pack,1271765476000
+122,Verify repayment agreement,1271766102000
+122,Approve application,1271766775000
+122,Loan application approved,1271766775000
+123,Loan application received,1271848321000
+123,Check application form completeness,1271848675000
+123,Appraise property,1271849206000
+123,Check credit history,1271849326000
+123,Asses loan risk,1271850111000
+123,Assess eligibility,1271850906000
+123,Reject application,1271851703000
+123,Loan application rejected,1271851703000
+124,Loan application received,1271864804000
+124,Check application form completeness,1271865052000
+124,Check credit history,1271865127000
+124,Appraise property,1271865368000
+124,Asses loan risk,1271866052000
+124,Assess eligibility,1271866576000
+124,Reject application,1271867036000
+124,Loan application rejected,1271867036000
+125,Loan application received,1271951284000
+125,Check application form completeness,1271951572000
+125,Check credit history,1271951865000
+125,Appraise property,1271952338000
+125,Asses loan risk,1271952628000
+125,Assess eligibility,1271953416000
+125,Reject application,1271953737000
+125,Loan application rejected,1271953737000
+126,Loan application received,1272035123000
+126,Check application form completeness,1272035445000
+126,Check credit history,1272035940000
+126,Appraise property,1272036020000
+126,Asses loan risk,1272036951000
+126,Assess eligibility,1272038138000
+126,Reject application,1272038738000
+126,Loan application rejected,1272038738000
+127,Loan application received,1272297019000
+127,Check application form completeness,1272297350000
+127,Check credit history,1272297703000
+127,Appraise property,1272297968000
+127,Asses loan risk,1272298430000
+127,Assess eligibility,1272299372000
+127,Reject application,1272299851000
+127,Loan application rejected,1272299851000
+128,Loan application received,1272363854000
+128,Check application form completeness,1272364148000
+128,Check credit history,1272364216000
+128,Appraise property,1272364613000
+128,Asses loan risk,1272364958000
+128,Assess eligibility,1272366165000
+128,Reject application,1272366603000
+128,Loan application rejected,1272366603000
+129,Loan application received,1272448128000
+129,Check application form completeness,1272448514000
+129,Appraise property,1272449168000
+129,Check credit history,1272449212000
+129,Asses loan risk,1272450206000
+129,Assess eligibility,1272451102000
+129,Prepare acceptance pack,1272451712000
+130,Loan application received,1272452226000
+129,Check if home insurance quote is requested,1272452388000
+130,Check application form completeness,1272452548000
+129,Send acceptance pack with insurance,1272453103000
+130,Check credit history,1272453222000
+130,Appraise property,1272453278000
+129,Verify repayment agreement,1272453660000
+130,Asses loan risk,1272454103000
+129,Cancel application,1272454225000
+129,Loan application cancelled,1272454225000
+130,Assess eligibility,1272454817000
+130,Reject application,1272455450000
+130,Loan application rejected,1272455450000
+131,Loan application received,1272539355000
+131,Check application form completeness,1272539605000
+131,Return application back to applicant,1272539842000
+131,Receive updated application,1272540127000
+131,Check application form completeness,1272540393000
+131,Check credit history,1272540673000
+131,Appraise property,1272540984000
+131,Asses loan risk,1272541227000
+131,Assess eligibility,1272542113000
+131,Prepare acceptance pack,1272542682000
+131,Check if home insurance quote is requested,1272543492000
+131,Send acceptance pack,1272544087000
+131,Verify repayment agreement,1272544716000
+131,Approve application,1272545524000
+131,Loan application approved,1272545524000
+132,Loan application received,1272548517000
+132,Check application form completeness,1272548739000
+132,Return application back to applicant,1272549048000
+132,Receive updated application,1272549439000
+132,Check application form completeness,1272549706000
+132,Check credit history,1272549761000
+132,Appraise property,1272550088000
+132,Asses loan risk,1272550782000
+132,Assess eligibility,1272551313000
+132,Reject application,1272551929000
+132,Loan application rejected,1272551929000
+133,Loan application received,1272627858000
+133,Check application form completeness,1272628140000
+133,Check credit history,1272628297000
+133,Appraise property,1272628847000
+133,Asses loan risk,1272629050000
+133,Assess eligibility,1272629799000
+133,Reject application,1272630545000
+133,Loan application rejected,1272630545000
+134,Loan application received,1272886848000
+134,Check application form completeness,1272887146000
+134,Check credit history,1272887763000
+134,Appraise property,1272887769000
+134,Asses loan risk,1272889013000
+134,Assess eligibility,1272889752000
+134,Reject application,1272890491000
+134,Loan application rejected,1272890491000
+135,Loan application received,1272970335000
+135,Check application form completeness,1272970589000
+135,Appraise property,1272971308000
+135,Check credit history,1272972888000
+135,Asses loan risk,1272973807000
+135,Assess eligibility,1272974254000
+135,Prepare acceptance pack,1272974848000
+135,Check if home insurance quote is requested,1272975492000
+135,Send acceptance pack,1272976166000
+135,Verify repayment agreement,1272976626000
+135,Approve application,1272977195000
+135,Loan application approved,1272977195000
+136,Loan application received,1272992324000
+136,Check application form completeness,1272992642000
+136,Return application back to applicant,1272993005000
+136,Receive updated application,1272993332000
+136,Check application form completeness,1272993670000
+136,Check credit history,1272993746000
+136,Appraise property,1272994060000
+136,Asses loan risk,1272994347000
+136,Assess eligibility,1272994939000
+136,Reject application,1272995481000
+136,Loan application rejected,1272995481000
+137,Loan application received,1273072980000
+137,Check application form completeness,1273073238000
+137,Check credit history,1273073845000
+137,Appraise property,1273073868000
+137,Asses loan risk,1273074533000
+137,Assess eligibility,1273075216000
+137,Reject application,1273075959000
+137,Loan application rejected,1273075959000
+138,Loan application received,1273141979000
+138,Check application form completeness,1273142364000
+138,Appraise property,1273142710000
+138,Check credit history,1273142834000
+138,Asses loan risk,1273143769000
+138,Assess eligibility,1273144819000
+138,Reject application,1273145309000
+138,Loan application rejected,1273145309000
+139,Loan application received,1273154466000
+139,Check application form completeness,1273154767000
+139,Check credit history,1273155255000
+139,Appraise property,1273155465000
+139,Asses loan risk,1273155905000
+139,Assess eligibility,1273156841000
+139,Reject application,1273157376000
+139,Loan application rejected,1273157376000
+140,Loan application received,1273239667000
+140,Check application form completeness,1273239887000
+140,Check credit history,1273240299000
+140,Appraise property,1273240505000
+140,Asses loan risk,1273240964000
+140,Assess eligibility,1273241937000
+140,Reject application,1273242524000
+140,Loan application rejected,1273242524000
+141,Loan application received,1273501385000
+141,Check application form completeness,1273501644000
+141,Return application back to applicant,1273501827000
+141,Receive updated application,1273502130000
+141,Check application form completeness,1273502375000
+141,Appraise property,1273503016000
+141,Check credit history,1273503648000
+141,Asses loan risk,1273504606000
+141,Assess eligibility,1273505254000
+141,Reject application,1273505891000
+141,Loan application rejected,1273505891000
+142,Loan application received,1273573725000
+142,Check application form completeness,1273574057000
+142,Check credit history,1273574521000
+142,Appraise property,1273574602000
+142,Asses loan risk,1273575274000
+142,Assess eligibility,1273576225000
+142,Prepare acceptance pack,1273576934000
+142,Check if home insurance quote is requested,1273577587000
+142,Send acceptance pack,1273578212000
+142,Verify repayment agreement,1273578801000
+142,Approve application,1273579404000
+142,Loan application approved,1273579404000
+143,Loan application received,1273665083000
+143,Check application form completeness,1273665396000
+143,Check credit history,1273665762000
+143,Appraise property,1273665896000
+143,Asses loan risk,1273666722000
+143,Assess eligibility,1273667718000
+143,Reject application,1273668414000
+143,Loan application rejected,1273668414000
+144,Loan application received,1273744087000
+144,Check application form completeness,1273744419000
+144,Check credit history,1273744505000
+144,Asses loan risk,1273745235000
+144,Appraise property,1273745283000
+144,Assess eligibility,1273746279000
+144,Reject application,1273746982000
+144,Loan application rejected,1273746982000
+145,Loan application received,1273757760000
+145,Check application form completeness,1273758117000
+145,Appraise property,1273758702000
+145,Check credit history,1273759221000
+145,Asses loan risk,1273760134000
+145,Assess eligibility,1273760967000
+145,Reject application,1273761376000
+145,Loan application rejected,1273761376000
+146,Loan application received,1273767242000
+146,Check application form completeness,1273767479000
+146,Check credit history,1273767761000
+146,Appraise property,1273768181000
+146,Asses loan risk,1273768842000
+146,Assess eligibility,1273769891000
+146,Reject application,1273770373000
+146,Loan application rejected,1273770373000
+147,Loan application received,1273852592000
+147,Check application form completeness,1273852920000
+147,Appraise property,1273853481000
+147,Check credit history,1273854939000
+147,Asses loan risk,1273855709000
+147,Assess eligibility,1273856808000
+147,Reject application,1273857350000
+147,Loan application rejected,1273857350000
+148,Loan application received,1274099305000
+148,Check application form completeness,1274099637000
+148,Return application back to applicant,1274099956000
+148,Receive updated application,1274100163000
+148,Check application form completeness,1274100419000
+148,Appraise property,1274100911000
+148,Check credit history,1274102247000
+148,Asses loan risk,1274103304000
+148,Assess eligibility,1274104178000
+148,Reject application,1274104859000
+148,Loan application rejected,1274104859000
+149,Loan application received,1274105765000
+149,Check application form completeness,1274106045000
+149,Appraise property,1274106612000
+149,Check credit history,1274106695000
+149,Asses loan risk,1274107333000
+149,Assess eligibility,1274108299000
+149,Reject application,1274109002000
+149,Loan application rejected,1274109002000
+150,Loan application received,1274110183000
+150,Check application form completeness,1274110433000
+150,Return application back to applicant,1274110720000
+150,Receive updated application,1274111010000
+150,Check application form completeness,1274111390000
+150,Check credit history,1274111503000
+150,Appraise property,1274111990000
+150,Asses loan risk,1274112309000
+150,Assess eligibility,1274113353000
+150,Prepare acceptance pack,1274113808000
+150,Check if home insurance quote is requested,1274114452000
+150,Send acceptance pack,1274114929000
+150,Verify repayment agreement,1274115463000
+150,Cancel application,1274116211000
+150,Loan application cancelled,1274116211000
+151,Loan application received,1274188239000
+151,Check application form completeness,1274188568000
+151,Check credit history,1274189210000
+151,Appraise property,1274189289000
+151,Asses loan risk,1274189941000
+151,Assess eligibility,1274190792000
+151,Reject application,1274191482000
+151,Loan application rejected,1274191482000
+152,Loan application received,1274280956000
+152,Check application form completeness,1274281389000
+152,Check credit history,1274281430000
+152,Appraise property,1274281871000
+152,Asses loan risk,1274282343000
+152,Assess eligibility,1274283232000
+152,Reject application,1274283764000
+152,Loan application rejected,1274283764000
+153,Loan application received,1274286754000
+153,Check application form completeness,1274287025000
+153,Appraise property,1274287519000
+153,Check credit history,1274287916000
+153,Asses loan risk,1274288636000
+153,Assess eligibility,1274289434000
+153,Prepare acceptance pack,1274290030000
+153,Check if home insurance quote is requested,1274290742000
+153,Send acceptance pack,1274291441000
+153,Verify repayment agreement,1274291699000
+153,Approve application,1274292189000
+153,Loan application approved,1274292189000
+154,Loan application received,1274434934000
+154,Check application form completeness,1274435261000
+154,Check credit history,1274435843000
+154,Appraise property,1274435850000
+154,Asses loan risk,1274436729000
+154,Assess eligibility,1274437544000
+154,Reject application,1274438066000
+154,Loan application rejected,1274438066000
+155,Loan application received,1274445225000
+155,Check application form completeness,1274445590000
+155,Check credit history,1274445642000
+155,Appraise property,1274446158000
+155,Asses loan risk,1274446278000
+155,Assess eligibility,1274447069000
+155,Reject application,1274447350000
+155,Loan application rejected,1274447350000
+156,Loan application received,1274700124000
+156,Check application form completeness,1274700418000
+156,Appraise property,1274701066000
+156,Check credit history,1274701695000
+156,Asses loan risk,1274702800000
+156,Assess eligibility,1274703624000
+156,Reject application,1274704135000
+156,Loan application rejected,1274704135000
+157,Loan application received,1274786219000
+157,Check application form completeness,1274786466000
+157,Appraise property,1274787188000
+157,Check credit history,1274787241000
+157,Asses loan risk,1274788442000
+157,Assess eligibility,1274789375000
+157,Reject application,1274789981000
+157,Loan application rejected,1274789981000
+158,Loan application received,1274793872000
+158,Check application form completeness,1274794217000
+158,Return application back to applicant,1274794506000
+158,Receive updated application,1274794884000
+158,Check application form completeness,1274795113000
+158,Return application back to applicant,1274795376000
+158,Receive updated application,1274795652000
+158,Check application form completeness,1274795939000
+158,Check credit history,1274796178000
+158,Appraise property,1274796589000
+158,Asses loan risk,1274797176000
+158,Assess eligibility,1274798198000
+159,Loan application received,1274798296000
+159,Check application form completeness,1274798683000
+159,Check credit history,1274798685000
+158,Prepare acceptance pack,1274798796000
+159,Asses loan risk,1274799181000
+159,Appraise property,1274799201000
+158,Check if home insurance quote is requested,1274799570000
+158,Send acceptance pack,1274800191000
+159,Assess eligibility,1274800252000
+159,Reject application,1274800857000
+159,Loan application rejected,1274800857000
+158,Verify repayment agreement,1274800950000
+158,Approve application,1274801525000
+158,Loan application approved,1274801525000
+160,Loan application received,1274885967000
+160,Check application form completeness,1274886223000
+160,Appraise property,1274886963000
+160,Check credit history,1274887776000
+160,Asses loan risk,1274888431000
+160,Assess eligibility,1274889636000
+161,Loan application received,1274890299000
+160,Prepare acceptance pack,1274890346000
+161,Check application form completeness,1274890583000
+161,Return application back to applicant,1274890811000
+160,Check if home insurance quote is requested,1274890991000
+161,Receive updated application,1274891099000
+161,Check application form completeness,1274891455000
+160,Send acceptance pack,1274891503000
+160,Verify repayment agreement,1274891842000
+161,Appraise property,1274892070000
+160,Cancel application,1274892577000
+160,Loan application cancelled,1274892577000
+161,Check credit history,1274892707000
+161,Asses loan risk,1274893506000
+161,Assess eligibility,1274894463000
+161,Reject application,1274895022000
+161,Loan application rejected,1274895022000
+162,Loan application received,1274967474000
+162,Check application form completeness,1274967823000
+162,Check credit history,1274967993000
+162,Appraise property,1274968445000
+162,Asses loan risk,1274968708000
+162,Assess eligibility,1274969578000
+162,Reject application,1274970060000
+162,Loan application rejected,1274970060000
+163,Loan application received,1274974274000
+163,Check application form completeness,1274974723000
+163,Check credit history,1274975295000
+163,Appraise property,1274975336000
+163,Asses loan risk,1274976262000
+163,Assess eligibility,1274976932000
+163,Reject application,1274977640000
+163,Loan application rejected,1274977640000
+164,Loan application received,1275049095000
+164,Check application form completeness,1275049385000
+164,Check credit history,1275049578000
+164,Appraise property,1275050052000
+164,Asses loan risk,1275050285000
+164,Assess eligibility,1275051379000
+164,Reject application,1275052002000
+164,Loan application rejected,1275052002000
+165,Loan application received,1275059987000
+165,Check application form completeness,1275060180000
+165,Check credit history,1275060537000
+165,Appraise property,1275060824000
+165,Asses loan risk,1275061670000
+165,Assess eligibility,1275062628000
+165,Prepare acceptance pack,1275063199000
+165,Check if home insurance quote is requested,1275063821000
+165,Send acceptance pack with insurance,1275064514000
+165,Verify repayment agreement,1275064970000
+165,Approve application,1275065694000
+165,Loan application approved,1275065694000
+166,Loan application received,1275313600000
+166,Check application form completeness,1275313883000
+166,Appraise property,1275314512000
+166,Check credit history,1275315556000
+166,Asses loan risk,1275316632000
+166,Assess eligibility,1275317659000
+166,Reject application,1275318340000
+166,Loan application rejected,1275318340000
+167,Loan application received,1275382909000
+167,Check application form completeness,1275383212000
+167,Check credit history,1275383657000
+167,Appraise property,1275383928000
+167,Asses loan risk,1275384466000
+167,Assess eligibility,1275385421000
+167,Reject application,1275386193000
+167,Loan application rejected,1275386193000
+168,Loan application received,1275395048000
+168,Check application form completeness,1275395323000
+168,Appraise property,1275396090000
+168,Check credit history,1275396152000
+168,Asses loan risk,1275396980000
+168,Assess eligibility,1275397919000
+168,Reject application,1275398596000
+168,Loan application rejected,1275398596000
+169,Loan application received,1275400885000
+169,Check application form completeness,1275401174000
+169,Check credit history,1275401315000
+169,Appraise property,1275401873000
+169,Asses loan risk,1275402247000
+169,Assess eligibility,1275403312000
+169,Reject application,1275403798000
+169,Loan application rejected,1275403798000
+170,Loan application received,1275481339000
+170,Check application form completeness,1275481632000
+170,Check credit history,1275481680000
+170,Appraise property,1275482266000
+170,Asses loan risk,1275482675000
+170,Assess eligibility,1275483129000
+170,Reject application,1275483877000
+170,Loan application rejected,1275483877000
+171,Loan application received,1275561487000
+171,Check application form completeness,1275561695000
+171,Check credit history,1275562185000
+171,Appraise property,1275562392000
+171,Asses loan risk,1275563029000
+171,Assess eligibility,1275564159000
+171,Reject application,1275564697000
+171,Loan application rejected,1275564697000
+172,Loan application received,1275647780000
+172,Check application form completeness,1275648145000
+172,Check credit history,1275648392000
+172,Appraise property,1275648623000
+172,Asses loan risk,1275649247000
+172,Assess eligibility,1275649900000
+172,Reject application,1275650611000
+172,Loan application rejected,1275650611000
+173,Loan application received,1275654738000
+173,Check application form completeness,1275654997000
+173,Return application back to applicant,1275655251000
+173,Receive updated application,1275655499000
+173,Check application form completeness,1275655782000
+173,Check credit history,1275656400000
+173,Appraise property,1275656434000
+173,Asses loan risk,1275657199000
+173,Assess eligibility,1275658382000
+173,Reject application,1275659127000
+173,Loan application rejected,1275659127000
+174,Loan application received,1275918322000
+174,Check application form completeness,1275918639000
+174,Check credit history,1275919064000
+174,Appraise property,1275919160000
+174,Asses loan risk,1275919820000
+174,Assess eligibility,1275920456000
+174,Reject application,1275921260000
+174,Loan application rejected,1275921260000
+175,Loan application received,1276006035000
+175,Check application form completeness,1276006421000
+175,Return application back to applicant,1276006709000
+175,Receive updated application,1276007092000
+175,Check application form completeness,1276007469000
+175,Appraise property,1276008157000
+175,Check credit history,1276008167000
+175,Asses loan risk,1276008780000
+175,Assess eligibility,1276010090000
+175,Prepare acceptance pack,1276010729000
+176,Loan application received,1276011206000
+175,Check if home insurance quote is requested,1276011282000
+176,Check application form completeness,1276011546000
+176,Appraise property,1276012000000
+175,Send acceptance pack with insurance,1276012112000
+175,Verify repayment agreement,1276012621000
+176,Check credit history,1276013191000
+175,Approve application,1276013503000
+175,Loan application approved,1276013503000
+176,Asses loan risk,1276014032000
+176,Assess eligibility,1276014746000
+176,Reject application,1276015539000
+176,Loan application rejected,1276015539000
+177,Loan application received,1276086245000
+177,Check application form completeness,1276086544000
+177,Check credit history,1276086771000
+177,Appraise property,1276087022000
+177,Asses loan risk,1276087741000
+177,Assess eligibility,1276088063000
+177,Reject application,1276088588000
+177,Loan application rejected,1276088588000
+178,Loan application received,1276170878000
+178,Check application form completeness,1276171218000
+178,Appraise property,1276171674000
+178,Check credit history,1276174538000
+178,Asses loan risk,1276175375000
+178,Assess eligibility,1276176088000
+178,Reject application,1276176706000
+178,Loan application rejected,1276176706000
+179,Loan application received,1276251205000
+179,Check application form completeness,1276251453000
+179,Return application back to applicant,1276251735000
+179,Receive updated application,1276252069000
+179,Check application form completeness,1276252480000
+179,Check credit history,1276252846000
+179,Appraise property,1276253014000
+179,Asses loan risk,1276253657000
+179,Assess eligibility,1276254402000
+179,Reject application,1276254929000
+179,Loan application rejected,1276254929000
+180,Loan application received,1276259561000
+180,Check application form completeness,1276259792000
+180,Check credit history,1276259812000
+180,Appraise property,1276260374000
+180,Asses loan risk,1276260424000
+180,Assess eligibility,1276261504000
+180,Reject application,1276262173000
+180,Loan application rejected,1276262173000
+181,Loan application received,1276517168000
+181,Check application form completeness,1276517456000
+181,Return application back to applicant,1276517795000
+181,Receive updated application,1276518144000
+181,Check application form completeness,1276518456000
+181,Return application back to applicant,1276518713000
+181,Receive updated application,1276519061000
+181,Check application form completeness,1276519418000
+181,Appraise property,1276520063000
+181,Check credit history,1276520837000
+181,Asses loan risk,1276521610000
+181,Assess eligibility,1276522190000
+181,Prepare acceptance pack,1276522774000
+181,Check if home insurance quote is requested,1276523380000
+181,Send acceptance pack with insurance,1276523753000
+181,Verify repayment agreement,1276524270000
+181,Approve application,1276524968000
+181,Loan application approved,1276524968000
+182,Loan application received,1276593698000
+182,Check application form completeness,1276593972000
+182,Return application back to applicant,1276594239000
+182,Receive updated application,1276594599000
+182,Check application form completeness,1276594915000
+182,Appraise property,1276595440000
+182,Check credit history,1276596746000
+182,Asses loan risk,1276597497000
+182,Assess eligibility,1276598468000
+182,Reject application,1276599282000
+182,Loan application rejected,1276599282000
+183,Loan application received,1276606120000
+183,Check application form completeness,1276606424000
+183,Appraise property,1276606780000
+183,Check credit history,1276606991000
+183,Asses loan risk,1276607619000
+183,Assess eligibility,1276608585000
+183,Reject application,1276609254000
+183,Loan application rejected,1276609254000
+184,Loan application received,1276613826000
+184,Check application form completeness,1276614198000
+184,Appraise property,1276614985000
+184,Check credit history,1276615134000
+184,Asses loan risk,1276616093000
+184,Assess eligibility,1276617114000
+184,Reject application,1276617619000
+184,Loan application rejected,1276617619000
+185,Loan application received,1276688124000
+185,Check application form completeness,1276688491000
+185,Check credit history,1276688834000
+185,Appraise property,1276688930000
+185,Asses loan risk,1276689636000
+185,Assess eligibility,1276690826000
+185,Reject application,1276691265000
+185,Loan application rejected,1276691265000
+186,Loan application received,1276694162000
+186,Check application form completeness,1276694500000
+186,Appraise property,1276695259000
+186,Check credit history,1276695608000
+186,Asses loan risk,1276696256000
+186,Assess eligibility,1276697454000
+186,Reject application,1276698234000
+186,Loan application rejected,1276698234000
+187,Loan application received,1276706668000
+187,Check application form completeness,1276706930000
+187,Check credit history,1276707423000
+187,Appraise property,1276707453000
+187,Asses loan risk,1276707826000
+187,Assess eligibility,1276708807000
+187,Prepare acceptance pack,1276709545000
+187,Check if home insurance quote is requested,1276710320000
+187,Send acceptance pack,1276710746000
+187,Verify repayment agreement,1276711377000
+187,Cancel application,1276711969000
+187,Loan application cancelled,1276711969000
+188,Loan application received,1276771842000
+188,Check application form completeness,1276772138000
+188,Appraise property,1276772722000
+188,Check credit history,1276773254000
+188,Asses loan risk,1276774290000
+188,Assess eligibility,1276775057000
+188,Prepare acceptance pack,1276775589000
+188,Check if home insurance quote is requested,1276776112000
+188,Send acceptance pack with insurance,1276776641000
+188,Verify repayment agreement,1276777219000
+188,Approve application,1276778116000
+188,Loan application approved,1276778116000
+189,Loan application received,1276853822000
+189,Check application form completeness,1276854107000
+189,Check credit history,1276854365000
+189,Appraise property,1276854667000
+189,Asses loan risk,1276855449000
+189,Assess eligibility,1276856916000
+189,Reject application,1276857380000
+189,Loan application rejected,1276857380000
+190,Loan application received,1276860402000
+190,Check application form completeness,1276860705000
+190,Appraise property,1276861453000
+190,Check credit history,1276862287000
+190,Asses loan risk,1276863209000
+190,Assess eligibility,1276863951000
+190,Reject application,1276864470000
+190,Loan application rejected,1276864470000
+191,Loan application received,1276873968000
+191,Check application form completeness,1276874319000
+191,Check credit history,1276874590000
+191,Appraise property,1276875068000
+191,Asses loan risk,1276875408000
+191,Assess eligibility,1276876276000
+191,Reject application,1276876731000
+191,Loan application rejected,1276876731000
+192,Loan application received,1277121081000
+192,Check application form completeness,1277121396000
+192,Appraise property,1277122107000
+192,Check credit history,1277122116000
+192,Asses loan risk,1277123119000
+192,Assess eligibility,1277124200000
+192,Reject application,1277124784000
+192,Loan application rejected,1277124784000
+193,Loan application received,1277197310000
+193,Check application form completeness,1277197603000
+193,Appraise property,1277198109000
+193,Check credit history,1277198215000
+193,Asses loan risk,1277199246000
+193,Assess eligibility,1277200191000
+193,Reject application,1277200816000
+193,Loan application rejected,1277200816000
+194,Loan application received,1277217911000
+194,Check application form completeness,1277218146000
+194,Check credit history,1277218610000
+194,Appraise property,1277218680000
+194,Asses loan risk,1277219606000
+194,Assess eligibility,1277220296000
+194,Reject application,1277220866000
+194,Loan application rejected,1277220866000
+195,Loan application received,1277289178000
+195,Check application form completeness,1277289493000
+195,Check credit history,1277289694000
+195,Appraise property,1277290155000
+195,Asses loan risk,1277290698000
+195,Assess eligibility,1277291755000
+195,Reject application,1277292291000
+195,Loan application rejected,1277292291000
+196,Loan application received,1277297340000
+196,Check application form completeness,1277297571000
+196,Check credit history,1277297783000
+196,Appraise property,1277298290000
+196,Asses loan risk,1277298752000
+196,Assess eligibility,1277299785000
+196,Reject application,1277300438000
+196,Loan application rejected,1277300438000
+197,Loan application received,1277388835000
+197,Check application form completeness,1277389079000
+197,Check credit history,1277389448000
+197,Appraise property,1277389769000
+197,Asses loan risk,1277390465000
+197,Assess eligibility,1277391506000
+197,Reject application,1277392014000
+197,Loan application rejected,1277392014000
+198,Loan application received,1277394545000
+198,Check application form completeness,1277394857000
+198,Check credit history,1277394982000
+198,Appraise property,1277395535000
+198,Asses loan risk,1277395715000
+198,Assess eligibility,1277396629000
+198,Reject application,1277397220000
+198,Loan application rejected,1277397220000
+199,Loan application received,1277458442000
+199,Check application form completeness,1277458739000
+199,Check credit history,1277459276000
+199,Appraise property,1277459418000
+199,Asses loan risk,1277460177000
+199,Assess eligibility,1277461117000
+199,Reject application,1277461885000
+199,Loan application rejected,1277461885000
+200,Loan application received,1277471213000
+200,Check application form completeness,1277471442000
+200,Check credit history,1277471610000
+200,Appraise property,1277471951000
+200,Asses loan risk,1277472644000
+200,Assess eligibility,1277473977000
+200,Reject application,1277474556000
+200,Loan application rejected,1277474556000
+201,Loan application received,1277478001000
+201,Check application form completeness,1277478237000
+201,Return application back to applicant,1277478501000
+201,Receive updated application,1277478833000
+201,Check application form completeness,1277479124000
+201,Appraise property,1277479628000
+201,Check credit history,1277480636000
+201,Asses loan risk,1277481762000
+201,Assess eligibility,1277482659000
+201,Reject application,1277483405000
+201,Loan application rejected,1277483405000
+202,Loan application received,1277737766000
+202,Check application form completeness,1277738023000
+202,Appraise property,1277738650000
+202,Check credit history,1277738975000
+202,Asses loan risk,1277739813000
+202,Assess eligibility,1277740771000
+202,Reject application,1277741467000
+202,Loan application rejected,1277741467000
+203,Loan application received,1277810713000
+203,Check application form completeness,1277811099000
+203,Check credit history,1277811332000
+203,Appraise property,1277811774000
+203,Asses loan risk,1277811971000
+203,Assess eligibility,1277813083000
+203,Reject application,1277813452000
+203,Loan application rejected,1277813452000
+204,Loan application received,1277893212000
+204,Check application form completeness,1277893441000
+204,Return application back to applicant,1277893752000
+204,Receive updated application,1277894029000
+204,Check application form completeness,1277894227000
+204,Appraise property,1277894793000
+204,Check credit history,1277895487000
+204,Asses loan risk,1277896339000
+204,Assess eligibility,1277897385000
+204,Reject application,1277898033000
+204,Loan application rejected,1277898033000
+205,Loan application received,1277908752000
+205,Check application form completeness,1277909032000
+205,Appraise property,1277909480000
+205,Check credit history,1277910304000
+205,Asses loan risk,1277911525000
+205,Assess eligibility,1277912364000
+205,Reject application,1277913014000
+205,Loan application rejected,1277913014000
+206,Loan application received,1277986441000
+206,Check application form completeness,1277986666000
+206,Check credit history,1277986768000
+206,Appraise property,1277987148000
+206,Asses loan risk,1277987688000
+206,Assess eligibility,1277988360000
+206,Reject application,1277988902000
+206,Loan application rejected,1277988902000
+207,Loan application received,1277995431000
+207,Check application form completeness,1277995679000
+207,Appraise property,1277996265000
+207,Check credit history,1277996720000
+207,Asses loan risk,1277997387000
+207,Assess eligibility,1277998270000
+207,Reject application,1277999036000
+207,Loan application rejected,1277999036000
+208,Loan application received,1278066422000
+208,Check application form completeness,1278066722000
+208,Check credit history,1278067094000
+208,Appraise property,1278067659000
+208,Asses loan risk,1278068338000
+208,Assess eligibility,1278069236000
+208,Reject application,1278069938000
+208,Loan application rejected,1278069938000
+209,Loan application received,1278325177000
+209,Check application form completeness,1278325541000
+209,Check credit history,1278326115000
+209,Appraise property,1278326123000
+209,Asses loan risk,1278327266000
+209,Assess eligibility,1278328305000
+209,Prepare acceptance pack,1278328848000
+209,Check if home insurance quote is requested,1278329395000
+209,Send acceptance pack with insurance,1278330047000
+209,Verify repayment agreement,1278330749000
+209,Cancel application,1278331651000
+209,Loan application cancelled,1278331651000
+210,Loan application received,1278344433000
+210,Check application form completeness,1278344699000
+210,Check credit history,1278345091000
+210,Appraise property,1278345282000
+210,Asses loan risk,1278346104000
+210,Assess eligibility,1278346991000
+210,Reject application,1278347646000
+210,Loan application rejected,1278347646000
+211,Loan application received,1278422533000
+211,Check application form completeness,1278422868000
+211,Check credit history,1278423304000
+211,Appraise property,1278423624000
+211,Asses loan risk,1278424260000
+211,Assess eligibility,1278425095000
+211,Reject application,1278425705000
+211,Loan application rejected,1278425705000
+212,Loan application received,1278504805000
+212,Check application form completeness,1278505169000
+212,Check credit history,1278505576000
+212,Appraise property,1278505807000
+212,Asses loan risk,1278506564000
+212,Assess eligibility,1278507359000
+212,Prepare acceptance pack,1278507948000
+212,Check if home insurance quote is requested,1278508497000
+213,Loan application received,1278508964000
+213,Check application form completeness,1278509268000
+212,Send acceptance pack,1278509294000
+213,Check credit history,1278509364000
+212,Verify repayment agreement,1278509705000
+213,Appraise property,1278509777000
+213,Asses loan risk,1278510235000
+212,Cancel application,1278510315000
+212,Loan application cancelled,1278510315000
+213,Assess eligibility,1278511241000
+213,Reject application,1278511907000
+213,Loan application rejected,1278511907000
+214,Loan application received,1278602058000
+214,Check application form completeness,1278602431000
+214,Check credit history,1278602714000
+214,Appraise property,1278602921000
+214,Asses loan risk,1278603422000
+214,Assess eligibility,1278604160000
+214,Reject application,1278604646000
+214,Loan application rejected,1278604646000
+215,Loan application received,1278675024000
+215,Check application form completeness,1278675307000
+215,Appraise property,1278675710000
+215,Check credit history,1278675736000
+215,Asses loan risk,1278676708000
+215,Assess eligibility,1278677606000
+215,Prepare acceptance pack,1278678066000
+215,Check if home insurance quote is requested,1278678655000
+215,Send acceptance pack with insurance,1278679229000
+215,Verify repayment agreement,1278679847000
+215,Approve application,1278680536000
+215,Loan application approved,1278680536000
+216,Loan application received,1278926481000
+216,Check application form completeness,1278926750000
+216,Return application back to applicant,1278927066000
+216,Receive updated application,1278927487000
+216,Check application form completeness,1278927693000
+216,Check credit history,1278927983000
+216,Appraise property,1278928369000
+216,Asses loan risk,1278928568000
+216,Assess eligibility,1278929439000
+216,Reject application,1278930030000
+216,Loan application rejected,1278930030000
+217,Loan application received,1278949535000
+217,Check application form completeness,1278949716000
+217,Appraise property,1278950321000
+217,Check credit history,1278951249000
+217,Asses loan risk,1278952322000
+217,Assess eligibility,1278953140000
+217,Reject application,1278953793000
+217,Loan application rejected,1278953793000
+218,Loan application received,1279026168000
+218,Check application form completeness,1279026365000
+218,Check credit history,1279026488000
+218,Appraise property,1279026957000
+218,Asses loan risk,1279027330000
+218,Assess eligibility,1279028106000
+218,Prepare acceptance pack,1279028678000
+218,Check if home insurance quote is requested,1279029298000
+218,Send acceptance pack,1279029884000
+218,Verify repayment agreement,1279030424000
+218,Cancel application,1279031271000
+218,Loan application cancelled,1279031271000
+219,Loan application received,1279098286000
+219,Check application form completeness,1279098546000
+219,Check credit history,1279098632000
+219,Appraise property,1279099058000
+219,Asses loan risk,1279099526000
+219,Assess eligibility,1279100124000
+219,Prepare acceptance pack,1279100701000
+219,Check if home insurance quote is requested,1279101315000
+219,Send acceptance pack,1279101928000
+219,Verify repayment agreement,1279102447000
+219,Cancel application,1279103002000
+219,Loan application cancelled,1279103002000
+220,Loan application received,1279104311000
+220,Check application form completeness,1279104578000
+220,Check credit history,1279104969000
+220,Appraise property,1279105307000
+220,Asses loan risk,1279105779000
+220,Assess eligibility,1279106645000
+220,Prepare acceptance pack,1279107330000
+220,Check if home insurance quote is requested,1279107871000
+220,Send acceptance pack,1279108389000
+220,Verify repayment agreement,1279108967000
+220,Cancel application,1279109528000
+220,Loan application cancelled,1279109528000
+221,Loan application received,1279126598000
+221,Check application form completeness,1279126909000
+221,Return application back to applicant,1279127323000
+221,Receive updated application,1279127700000
+221,Check application form completeness,1279127968000
+221,Check credit history,1279128237000
+221,Appraise property,1279128532000
+221,Asses loan risk,1279128984000
+221,Assess eligibility,1279129815000
+221,Reject application,1279130432000
+221,Loan application rejected,1279130432000
+222,Loan application received,1279212579000
+222,Check application form completeness,1279212920000
+222,Check credit history,1279212945000
+222,Appraise property,1279213527000
+222,Asses loan risk,1279214002000
+222,Assess eligibility,1279214692000
+222,Reject application,1279215322000
+222,Loan application rejected,1279215322000
+223,Loan application received,1279281729000
+223,Check application form completeness,1279282059000
+223,Return application back to applicant,1279282224000
+223,Receive updated application,1279282482000
+223,Check application form completeness,1279282699000
+223,Check credit history,1279282830000
+223,Appraise property,1279283121000
+223,Asses loan risk,1279283606000
+223,Assess eligibility,1279284268000
+223,Prepare acceptance pack,1279284815000
+223,Check if home insurance quote is requested,1279285432000
+223,Send acceptance pack,1279286060000
+223,Verify repayment agreement,1279286629000
+223,Approve application,1279287304000
+223,Loan application approved,1279287304000
+224,Loan application received,1279298193000
+224,Check application form completeness,1279298552000
+224,Check credit history,1279298585000
+224,Appraise property,1279299205000
+224,Asses loan risk,1279299569000
+224,Assess eligibility,1279300586000
+224,Prepare acceptance pack,1279301364000
+224,Check if home insurance quote is requested,1279302188000
+224,Send acceptance pack,1279302826000
+224,Verify repayment agreement,1279303244000
+224,Approve application,1279304037000
+224,Loan application approved,1279304037000
+225,Loan application received,1279536689000
+225,Check application form completeness,1279536974000
+225,Appraise property,1279537462000
+225,Check credit history,1279537855000
+225,Asses loan risk,1279538986000
+225,Assess eligibility,1279540170000
+225,Reject application,1279540758000
+225,Loan application rejected,1279540758000
+226,Loan application received,1279548506000
+226,Check application form completeness,1279548853000
+226,Check credit history,1279549317000
+226,Appraise property,1279549542000
+226,Asses loan risk,1279550262000
+226,Assess eligibility,1279551119000
+226,Reject application,1279551881000
+226,Loan application rejected,1279551881000
+227,Loan application received,1279618970000
+227,Check application form completeness,1279619323000
+227,Appraise property,1279619911000
+227,Check credit history,1279620320000
+227,Asses loan risk,1279621184000
+227,Assess eligibility,1279621986000
+227,Reject application,1279622459000
+227,Loan application rejected,1279622459000
+228,Loan application received,1279632126000
+228,Check application form completeness,1279632351000
+228,Check credit history,1279632858000
+228,Appraise property,1279632889000
+228,Asses loan risk,1279634036000
+228,Assess eligibility,1279635056000
+228,Reject application,1279635752000
+228,Loan application rejected,1279635752000
+229,Loan application received,1279715342000
+229,Check application form completeness,1279715605000
+229,Appraise property,1279716146000
+229,Check credit history,1279716298000
+229,Asses loan risk,1279717295000
+229,Assess eligibility,1279718115000
+229,Prepare acceptance pack,1279718706000
+229,Check if home insurance quote is requested,1279719273000
+229,Send acceptance pack with insurance,1279719809000
+229,Verify repayment agreement,1279720600000
+229,Cancel application,1279721127000
+229,Loan application cancelled,1279721127000
+230,Loan application received,1279728814000
+230,Check application form completeness,1279729181000
+230,Appraise property,1279729911000
+230,Check credit history,1279730222000
+230,Asses loan risk,1279730896000
+230,Assess eligibility,1279732090000
+230,Reject application,1279732638000
+230,Loan application rejected,1279732638000
+231,Loan application received,1279817269000
+231,Check application form completeness,1279817435000
+231,Check credit history,1279817535000
+231,Appraise property,1279818013000
+231,Asses loan risk,1279818560000
+231,Assess eligibility,1279819165000
+231,Prepare acceptance pack,1279819839000
+231,Check if home insurance quote is requested,1279820590000
+231,Send acceptance pack with insurance,1279821223000
+231,Verify repayment agreement,1279821838000
+231,Cancel application,1279822491000
+231,Loan application cancelled,1279822491000
+232,Loan application received,1280135820000
+232,Check application form completeness,1280136050000
+232,Check credit history,1280136248000
+232,Appraise property,1280136828000
+232,Asses loan risk,1280136986000
+232,Assess eligibility,1280137583000
+232,Reject application,1280138208000
+232,Loan application rejected,1280138208000
+233,Loan application received,1280158429000
+233,Check application form completeness,1280158814000
+233,Check credit history,1280159216000
+233,Appraise property,1280159447000
+233,Asses loan risk,1280159959000
+233,Assess eligibility,1280160895000
+233,Reject application,1280161796000
+233,Loan application rejected,1280161796000
+234,Loan application received,1280236509000
+234,Check application form completeness,1280236736000
+234,Check credit history,1280237243000
+234,Appraise property,1280237303000
+234,Asses loan risk,1280237938000
+234,Assess eligibility,1280239002000
+234,Reject application,1280239800000
+234,Loan application rejected,1280239800000
+235,Loan application received,1280329498000
+235,Check application form completeness,1280329742000
+235,Appraise property,1280330340000
+235,Check credit history,1280330687000
+235,Asses loan risk,1280331784000
+235,Assess eligibility,1280332646000
+235,Reject application,1280333306000
+235,Loan application rejected,1280333306000
+236,Loan application received,1280408823000
+236,Check application form completeness,1280409066000
+236,Appraise property,1280409693000
+236,Check credit history,1280409746000
+236,Asses loan risk,1280410386000
+236,Assess eligibility,1280411186000
+236,Reject application,1280411845000
+236,Loan application rejected,1280411845000
+237,Loan application received,1280413673000
+237,Check application form completeness,1280413961000
+237,Appraise property,1280414541000
+237,Check credit history,1280415754000
+237,Asses loan risk,1280416395000
+237,Assess eligibility,1280417236000
+237,Reject application,1280417754000
+237,Loan application rejected,1280417754000
+238,Loan application received,1280485957000
+238,Check application form completeness,1280486331000
+238,Check credit history,1280486727000
+238,Appraise property,1280486767000
+238,Asses loan risk,1280487889000
+238,Assess eligibility,1280488843000
+238,Reject application,1280489550000
+238,Loan application rejected,1280489550000
+239,Loan application received,1280746666000
+239,Check application form completeness,1280746950000
+239,Check credit history,1280747522000
+239,Appraise property,1280747613000
+239,Asses loan risk,1280748262000
+239,Assess eligibility,1280749200000
+239,Reject application,1280749803000
+239,Loan application rejected,1280749803000
+240,Loan application received,1280837324000
+240,Check application form completeness,1280837615000
+240,Check credit history,1280837644000
+240,Appraise property,1280838182000
+240,Asses loan risk,1280838979000
+240,Assess eligibility,1280839756000
+240,Reject application,1280840406000
+240,Loan application rejected,1280840406000
+241,Loan application received,1280920841000
+241,Check application form completeness,1280921205000
+241,Check credit history,1280921519000
+241,Appraise property,1280921747000
+241,Asses loan risk,1280922388000
+241,Assess eligibility,1280923252000
+241,Reject application,1280923850000
+241,Loan application rejected,1280923850000
+242,Loan application received,1281013984000
+242,Check application form completeness,1281014356000
+242,Appraise property,1281015038000
+242,Check credit history,1281016771000
+242,Asses loan risk,1281018064000
+242,Assess eligibility,1281019069000
+242,Reject application,1281019619000
+242,Loan application rejected,1281019619000
+243,Loan application received,1281104535000
+243,Check application form completeness,1281104850000
+243,Appraise property,1281105568000
+243,Check credit history,1281105849000
+243,Asses loan risk,1281107022000
+243,Assess eligibility,1281108224000
+243,Reject application,1281108903000
+243,Loan application rejected,1281108903000
+244,Loan application received,1281370077000
+244,Check application form completeness,1281370361000
+244,Return application back to applicant,1281370643000
+244,Receive updated application,1281371082000
+244,Check application form completeness,1281371396000
+244,Check credit history,1281371514000
+244,Appraise property,1281371841000
+244,Asses loan risk,1281372133000
+244,Assess eligibility,1281373138000
+244,Reject application,1281373713000
+244,Loan application rejected,1281373713000
+245,Loan application received,1281448881000
+245,Check application form completeness,1281449240000
+245,Return application back to applicant,1281449530000
+245,Receive updated application,1281449789000
+245,Check application form completeness,1281450140000
+245,Check credit history,1281450180000
+245,Appraise property,1281450823000
+245,Asses loan risk,1281451025000
+245,Assess eligibility,1281452322000
+245,Reject application,1281452878000
+245,Loan application rejected,1281452878000
+246,Loan application received,1281454034000
+246,Check application form completeness,1281454307000
+246,Appraise property,1281454808000
+246,Check credit history,1281455830000
+246,Asses loan risk,1281456759000
+246,Assess eligibility,1281457685000
+246,Prepare acceptance pack,1281458214000
+246,Check if home insurance quote is requested,1281458809000
+246,Send acceptance pack,1281459474000
+246,Verify repayment agreement,1281459821000
+246,Cancel application,1281460545000
+246,Loan application cancelled,1281460545000
+247,Loan application received,1281539456000
+247,Check application form completeness,1281539758000
+247,Check credit history,1281539769000
+247,Appraise property,1281540350000
+247,Asses loan risk,1281540478000
+247,Assess eligibility,1281541126000
+247,Prepare acceptance pack,1281541623000
+247,Check if home insurance quote is requested,1281542524000
+247,Send acceptance pack with insurance,1281543265000
+247,Verify repayment agreement,1281544029000
+247,Approve application,1281544545000
+247,Loan application approved,1281544545000
+248,Loan application received,1281606156000
+248,Check application form completeness,1281606540000
+248,Appraise property,1281607244000
+248,Check credit history,1281607891000
+248,Asses loan risk,1281608805000
+248,Assess eligibility,1281609722000
+248,Prepare acceptance pack,1281610284000
+248,Check if home insurance quote is requested,1281610606000
+248,Send acceptance pack,1281611400000
+248,Verify repayment agreement,1281612063000
+248,Approve application,1281612939000
+248,Loan application approved,1281612939000
+249,Loan application received,1281619536000
+249,Check application form completeness,1281619927000
+249,Check credit history,1281619987000
+249,Appraise property,1281620487000
+249,Asses loan risk,1281620939000
+249,Assess eligibility,1281621690000
+249,Reject application,1281622418000
+249,Loan application rejected,1281622418000
